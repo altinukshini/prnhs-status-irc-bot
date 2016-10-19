@@ -15,3 +15,7 @@ HACCSY: http://www.github.com/altinukshini/HACCSY
 ```!who``` - Shows the names of the hackers in space
 
 ```!prnhs``` - Shows how many members are in space and if hackerspace is open or close
+
+## DEMO
+
+![Demo](demo.png)
